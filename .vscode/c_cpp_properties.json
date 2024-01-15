@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/dependencies/GLFW/include",
+                "${workspaceFolder}/dependencies/glew/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "GLEW_STATIC"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cppStandard": "c++20",
+            "cStandard": "c99",
+            "compilerPath": "C:\\MinGW\\bin\\g++.exe"
+        }
+    ],
+    "version": 4
+}
